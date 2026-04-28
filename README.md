@@ -34,10 +34,6 @@ Paul Kaufmann
 PhD student, University Côte d'Azur
 E-mail: paul.kaufmann@etu.univ-cotedazur.fr
 
-Giovanni Traetta
-PhD student, Nantes University
-E-mail: giovanni.traetta@etu.univ-nantes.fr
-
 Simon Avrillon
 Research fellow, Nantes University
 E-mail: simon.avrillon@univ-nantes.fr
